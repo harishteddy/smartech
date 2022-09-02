@@ -26,7 +26,7 @@ console.log("Smmartktemvikjbiondfpibn",SmartechSDK)
    
     // Sample code for reference purpose only
   const payloadata2 = {
-    name: "Galaxy",
+    name: "Galaxy1",
     description: "20gram bars",
     payload_id: "1",
     event_id:21
