@@ -34,7 +34,7 @@ console.log("Smmartktemvikjbiondfpibn",SmartechSDK)
   SmartechSDK.trackEvent("Harish", payloadata2);
   
     const setUser = () => {
-    Smartech.setUserIdentity('123@gmail.com');
+    Smartech.setUserIdentity('1234@gmail.com');
     //Hansel.getUser().setUserId("123456@gmail.com");
     console.log("setting Identity");
     ToastAndroid.show(`"User Identity Is Set successfully"`, ToastAndroid.LONG);
