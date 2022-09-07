@@ -9,13 +9,7 @@ const ProfileScreen = () => {
 
 console.log("Smmartktemvikjbiondfpibn",SmartechSDK)
 
-  // useEffect(() => {
-  //   PushNotification.configure({
-  //     // (optional) Called when Token is generated (iOS and Android)
-  //     onRegister: function (token) {
-  //       console.log("TOKEN:", token);
-  //     }})
-  // },[])
+ 
   
     const payloadata = {
       // NAME: "abhi",
